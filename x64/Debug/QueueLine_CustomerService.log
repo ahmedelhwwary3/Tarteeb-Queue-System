@@ -1,0 +1,5 @@
+﻿  QueueLine_CustomerService.cpp
+F:\QueueLine_CustomerService\QueueLine_CustomerService\clsQueueLine.h(100,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'QueueLine_CustomerService.cpp')
+  
+  QueueLine_CustomerService.vcxproj -> F:\QueueLine_CustomerService\x64\Debug\QueueLine_CustomerService.exe
